@@ -1,0 +1,8 @@
+tweepy==4.12.1
+openai==0.27.8
+langchain==0.0.166
+streamlit==1.24.1
+pandas==1.5.3
+plotly==5.15.0
+langdetect==1.0.9
+python-dotenv==1.0.0
